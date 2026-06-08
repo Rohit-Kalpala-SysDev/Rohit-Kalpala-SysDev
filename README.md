@@ -79,7 +79,14 @@ Designing, developing, and validating EV systems with strong expertise in Batter
   Developed sensor-based logging with SD storage for diagnostics and analysis  
 
 ---
-
+## 🏆 Key Achievements
+- ✅ **Participated in AIS-156 certification activities**
+- ✅ **Developed CAN communication matrices for multiple vehicle platforms**
+- ✅ **Supported development of multiple EV battery pack variants**
+- ✅ **Led validation activities for BMS and battery systems**
+- ✅ **Established engineering SOPs for assembly, diagnostics and testing**
+- ✅ **Coordinated cross-functional product development activities**
+---
 ## 🌐 Connect with me
 
 <p align="left">
